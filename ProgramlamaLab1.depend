@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1604649657 source:c:\users\hp\desktop\programlamalab1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+	<graphics.h>
+
